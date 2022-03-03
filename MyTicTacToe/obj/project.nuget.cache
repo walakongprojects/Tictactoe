@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "grdmZYra7kIrecUHz3/ksjV8Pmf7IFfPHGXrCtmbZpGKfEwMlCKADIkkgI49mXaGZpTiySazcYaCJJm4g5Zb3Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Iyip\\Desktop\\codes\\C#\\TTT\\MyTicTacToe\\MyTicTacToe.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Iyip\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512",
+    "C:\\Users\\Iyip\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Iyip\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Iyip\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
